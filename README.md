@@ -2,7 +2,7 @@
 - 默认  IP：192.168.168.1
 - 默认密码：password
 ### 编译脚本可以使用，但需要稍微修改即可
-### 固件在bin文件夹，直接下载压缩包或者git clone即可
+### 固件在bin文件夹和发行，直接下载压缩包或者git clone即可
 ``` shell
 wget https://raw.githubusercontent.com/lrst6963/XiaoMi_Mi-Router-3g/main/build.sh && bash build.sh
 ```
